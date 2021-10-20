@@ -1,0 +1,27 @@
+body {
+
+    background: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.7));
+
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bailinson-oleary.com%2Fthe-undeniable-role-ngos-play-in-promoting-children%2F&psig=AOvVaw11inEIlswUgRSExyMgNs37&ust=1634820654419000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDG34yD2fMCFQAAAAAdAAAAABAD);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    border: cover solid black;
+}
+
+.navbar-brand {
+    padding: 5px 9px;
+    color: rgb(72, 245, 19);
+    font-weight: 600;
+}
+
+.col-12 {
+    text-align: center;
+    color: rgb(240, 255, 32);
+    font-weight: 900;
+}
+
+form {
+    text-align: center;
+    margin: 20px;
+}
